@@ -4,7 +4,7 @@
     "url": "https://dragoncave.tail337d9f.ts.net:8443/health",
     "icon": "https://icons.duckduckgo.com/ip3/dragoncave.tail337d9f.ts.net.ico",
     "slug": "tortuga-ai-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1880,
     "timeDay": 2446,
-    "timeWeek": 1880,
+    "timeWeek": 1590,
     "timeMonth": 1880,
     "timeYear": 1880,
     "dailyMinutesDown": {}
