@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dragoncave.tail337d9f.ts.net.ico",
     "slug": "tortuga-ai-bridge",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.68%",
+    "uptimeDay": "82.59%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 1880,
-    "timeDay": 2446,
-    "timeWeek": 1590,
+    "timeDay": 0,
+    "timeWeek": 1563,
     "timeMonth": 1880,
     "timeYear": 1880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-27": 250,
+      "2026-06-26": 1
+    }
   }
 ]
