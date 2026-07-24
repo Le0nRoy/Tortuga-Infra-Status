@@ -4,20 +4,22 @@
     "url": "https://dragoncave.tail337d9f.ts.net:8443/health",
     "icon": "https://icons.duckduckgo.com/ip3/dragoncave.tail337d9f.ts.net.ico",
     "slug": "tortuga-ai-bridge",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.09%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "73.84%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.34%",
     "time": 1412,
-    "timeDay": 771,
-    "timeWeek": 1176,
-    "timeMonth": 1250,
+    "timeDay": 0,
+    "timeWeek": 1208,
+    "timeMonth": 1231,
     "timeYear": 1412,
     "dailyMinutesDown": {
       "2026-06-27": 449,
-      "2026-06-26": 1
+      "2026-06-26": 1,
+      "2026-07-24": 213,
+      "2026-07-23": 164
     }
   }
 ]
