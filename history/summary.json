@@ -4,12 +4,12 @@
     "url": "https://dragoncave.tail337d9f.ts.net:8443/health",
     "icon": "https://icons.duckduckgo.com/ip3/dragoncave.tail337d9f.ts.net.ico",
     "slug": "tortuga-ai-bridge",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "78.41%",
-    "uptimeWeek": "93.21%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "89.17%",
+    "uptimeWeek": "93.20%",
     "uptimeMonth": "97.41%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 1422,
     "timeDay": 1621,
     "timeWeek": 1309,
@@ -19,7 +19,8 @@
       "2026-06-27": 449,
       "2026-06-26": 1,
       "2026-07-24": 521,
-      "2026-07-23": 164
+      "2026-07-23": 164,
+      "2026-07-25": 0
     }
   }
 ]
